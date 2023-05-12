@@ -9,3 +9,4 @@ function calcularColor(numero) {
     return "El color es verde";
   }
 }
+ 
